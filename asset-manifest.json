@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/3D_Circle_wave/static/css/main.afeee700.chunk.css",
+    "main.js": "/3D_Circle_wave/static/js/main.b16401c8.chunk.js",
+    "main.js.map": "/3D_Circle_wave/static/js/main.b16401c8.chunk.js.map",
+    "runtime-main.js": "/3D_Circle_wave/static/js/runtime-main.ab5afe9b.js",
+    "runtime-main.js.map": "/3D_Circle_wave/static/js/runtime-main.ab5afe9b.js.map",
+    "static/js/2.e16e8e1a.chunk.js": "/3D_Circle_wave/static/js/2.e16e8e1a.chunk.js",
+    "static/js/2.e16e8e1a.chunk.js.map": "/3D_Circle_wave/static/js/2.e16e8e1a.chunk.js.map",
+    "static/js/3.62fbcf75.chunk.js": "/3D_Circle_wave/static/js/3.62fbcf75.chunk.js",
+    "static/js/3.62fbcf75.chunk.js.map": "/3D_Circle_wave/static/js/3.62fbcf75.chunk.js.map",
+    "index.html": "/3D_Circle_wave/index.html",
+    "static/css/main.afeee700.chunk.css.map": "/3D_Circle_wave/static/css/main.afeee700.chunk.css.map",
+    "static/js/2.e16e8e1a.chunk.js.LICENSE.txt": "/3D_Circle_wave/static/js/2.e16e8e1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab5afe9b.js",
+    "static/js/2.e16e8e1a.chunk.js",
+    "static/css/main.afeee700.chunk.css",
+    "static/js/main.b16401c8.chunk.js"
+  ]
+}
